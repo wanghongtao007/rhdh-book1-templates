@@ -42,7 +42,7 @@ spec:
           title: Cluster Id
           type: string
           description: Id of the cluster
-          default: <XXX_XXX_XXX>
+          default: .apps.cluster-5rmhl.sandbox724.opentlc.com
         namespace: 
           title: Namespace
           type: string

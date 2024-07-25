@@ -1,9 +1,9 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: nestjs-with-postgres
-  title: NestJS Service with backing PostgreSQL database
-  description: Creates a NestJS Service together with a PostgreSQL database
+  name: wht-nestjs-with-postgres
+  title: wht-NestJS Service with backing PostgreSQL database
+  description: wht-Creates a NestJS Service together with a PostgreSQL database
   tags:
     - nodejs
     - nestjs
